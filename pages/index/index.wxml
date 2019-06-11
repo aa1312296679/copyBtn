@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <text class='copy_txt' bindtap='textPaste'>{{copyTxt}}</text>
+</view>
